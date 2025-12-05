@@ -10,7 +10,11 @@ To install this addon:
 5) Extract the file, and then find the MSC folder within. Scan with anti-virus software as a precaution.
 6) You now need to copy the MSC folder to the following location - <WoW Instal Location>\Interface\Addons
 
+Enabling the addon
+
 Run your World of Warcraft: Wrath of the Lich King and on the character select screen click the addons button and make sure that MSC is ticked.
+
+Viewing the addon
 
 In-game you should see a system message once logged-in telling you that MSC is loaded.
 To view thw MSC window either type
