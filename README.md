@@ -1,4 +1,4 @@
-MSC - Main Spec Changes Tracker.
+<b>MSC - Main Spec Changes Tracker.</b>
 
 This addon is used in World of Warcraft: Wrath of the Lich King (3.3.5a) and has been tested on Warmane's Lordaeron server.
 
