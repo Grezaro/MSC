@@ -1,6 +1,52 @@
 <b>MSC - Main Spec Changes Tracker.</b>
 
-This addon is used in World of Warcraft: Wrath of the Lich King (3.3.5a) and has been tested on Warmane's Lordaeron server.
+MSC - Main Spec Changes (v0.1.2)
+Compatible with World of Warcraft: Wrath of the Lich King (3.3.5a)
+
+MSC is a specialized tool for Raid Leaders and Loot Masters to track and broadcast changes to players' Main Specs. Whether a Paladin is switching from Holy to Prot for a specific boss or a Rogue is changing their PVP spec to a PVE spec, MSC ensures the raid is informed and loot eligibility is clear.
+
+🚀 Key Features
+Intelligent Spec Selection: Class-specific dropdowns (e.g., Mages only see DPS/PVP, while Druids see Feral/Boomie/Resto/etc.).
+
+Automatic Data Management: * Persistence: Data survives UI reloads and disconnects while in a group.
+
+Auto-Cleanup: Automatically removes data for players who leave the raid and clears the database entirely when the group disbands.
+
+Smart Reporting: Broadcasts changes to RAID_WARNING in multi-line chunks to prevent chat throttling or character limits.
+
+Version Verification: Built-in "Version Check" to ensure all assistants/loot masters are running the same version of the addon.
+
+Advanced Minimap Icon: * Left-Click: Toggle Main Window.
+
+Right-Click: Close Main Window.
+
+Middle-Click: Open the new Options Menu.
+
+Integrated Options Menu: Easily toggle the minimap icon and test the reporting system without needing a live raid.
+
+⌨️ Slash Commands
+/msc — Toggles the main raid list.
+
+/msc options (or /msc opt) — Opens the Options/Help window.
+
+/msc show — Forces the Minimap icon to appear.
+
+/msc hide — Hides the Minimap icon.
+
+/msc reset — Resets the main window position to the center of your screen.
+
+📖 How to Use
+Open the List: Click the Minimap icon or type /msc.
+
+Assign a Spec: Locate the player, click Set, and select their new role.
+
+Broadcast Changes: Click Report Changes. The addon will format a tidy message for the raid.
+
+Access Settings: Middle-click the Minimap icon or type /msc opt. Here you can toggle the icon visibility or use the Test Report button to verify the system.
+
+Version Audit: Use the Versions button to see who else has the addon installed and if they are up to date.
+
+🛠 Installation
 
 <b>To install this addon:</b>
 
@@ -10,15 +56,3 @@ This addon is used in World of Warcraft: Wrath of the Lich King (3.3.5a) and has
 4) You will now have a zipfile named MSC-main.zip
 5) Extract the file, and then find the MSC folder within. Scan with anti-virus software as a precaution.
 6) You now need to copy the MSC folder to the following location - <WoW Instal Location>\Interface\Addons
-
-<b>Enabling the addon:</b>
-
-Run your World of Warcraft: Wrath of the Lich King and on the character select screen click the addons button and make sure that MSC is ticked.
-
-<b>Viewing the addon:</b>
-
-In-game you should see a system message once logged-in telling you that MSC is loaded.
-To view thw MSC window either type
-/msc
-in the chat window, or you can click the MSC icon on the minimap.
-
