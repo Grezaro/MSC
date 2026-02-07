@@ -3,6 +3,7 @@ Compatible with World of Warcraft: Wrath of the Lich King (3.3.5a)
 
 MSC is a specialized tool for Raid Leaders and Loot Masters to track and broadcast changes to players' Main Specs. Whether a Paladin is switching from Holy to Prot for a specific boss or a Rogue is changing their PVP spec to a PVE spec, MSC ensures the raid is informed and loot eligibility is clear.
 
+
 🚀 <b>Key Features</b>
 Intelligent Spec Selection: Class-specific dropdowns (e.g., Mages only see DPS/PVP, while Druids see Feral/Boomie/Resto/etc.).
 
@@ -22,7 +23,9 @@ Middle-Click: Open the Options Menu.
 
 Integrated Options Menu: Easily toggle the minimap icon and test the reporting system,
 
+
 ⌨️ <b>Slash Commands</b>
+
 /msc — Toggles the main raid list.
 
 /msc options (or /msc opt) — Opens the Options/Help window.
@@ -32,6 +35,7 @@ Integrated Options Menu: Easily toggle the minimap icon and test the reporting s
 /msc hide — Hides the Minimap icon.
 
 /msc reset — Resets the main window position to the center of your screen.
+
 
 📖 <b>How to Use</b>
 Open the List: Click the Minimap icon or type /msc.
@@ -44,10 +48,10 @@ Access Settings: Middle-click the Minimap icon or type /msc opt. Here you can to
 
 Version Audit: Use the Versions button to see who else has the addon installed and if they are up to date.
 
+
 🛠 <b>Installation</b>
 
 <b>To install this addon:</b>
-
 1) Go to this URL: https://github.com/Grezaro/MSC
 2) Click on the dropdown on the green "<> CODE" button
 3) Click on "Download ZIP"
