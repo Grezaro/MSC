@@ -44,13 +44,24 @@ Integrated Options Menu: Easily toggle the minimap icon and test the reporting s
 
 Open the List: Click the Minimap icon or type /msc.
 
-Assign a Spec: Locate the player, click Set, and select their new role.
+<img width="318" height="343" alt="minimap" src="https://github.com/user-attachments/assets/bb0819dd-3102-4994-a8d8-6dea17e53464" />
+
+<img width="540" height="316" alt="options" src="https://github.com/user-attachments/assets/b386cdcb-fbb0-4ff9-8e9d-10081904860a" />
+
+Assign a Spec: Locate the player, click Set, and select their new role. (Differet role choices are shown for different classes)
+
+<img width="555" height="871" alt="msc2" src="https://github.com/user-attachments/assets/13c6dc66-5acc-4c8c-bde8-9ef82b9e704f" />
+
+<img width="610" height="879" alt="msc3" src="https://github.com/user-attachments/assets/a1cb22f4-bf78-4650-966c-20ea5da97371" />
+
 
 Broadcast Changes: Click Report Changes. The addon will format a tidy message for the raid.
 
 Access Settings: Middle-click the Minimap icon or type /msc opt. Here you can toggle the icon visibility or use the Test Report button to verify the system.
 
 Version Audit: Use the Versions button to see who else has the addon installed and if they are up to date.
+
+<img width="220" height="81" alt="version check" src="https://github.com/user-attachments/assets/56b57a79-b28f-4b2a-9047-45a0fb9e02c7" />
 
 
 🛠 <b>Installation</b>
