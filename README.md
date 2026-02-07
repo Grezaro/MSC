@@ -1,4 +1,4 @@
-<b>MSC - Main Spec Changes (v0.1.2)<b>
+<b>MSC - Main Spec Changes (v0.1.2)</b>
 Compatible with World of Warcraft: Wrath of the Lich King (3.3.5a)
 
 MSC is a specialized tool for Raid Leaders and Loot Masters to track and broadcast changes to players' Main Specs. Whether a Paladin is switching from Holy to Prot for a specific boss or a Rogue is changing their PVP spec to a PVE spec, MSC ensures the raid is informed and loot eligibility is clear.
