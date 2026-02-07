@@ -46,9 +46,9 @@ Open the List: Click the Minimap icon or type /msc.
 
 <img width="318" height="343" alt="minimap" src="https://github.com/user-attachments/assets/bb0819dd-3102-4994-a8d8-6dea17e53464" /><br><br>
 
-<img width="540" height="316" alt="options" src="https://github.com/user-attachments/assets/b386cdcb-fbb0-4ff9-8e9d-10081904860a" />
+<img width="540" height="316" alt="options" src="https://github.com/user-attachments/assets/b386cdcb-fbb0-4ff9-8e9d-10081904860a" /><br><br>
 
-Assign a Spec: Locate the player, click Set, and select their new role. (Differet role choices are shown for different classes)
+Assign a Spec: Locate the player, click Set, and select their new role. (Different role choices are shown for different classes)
 
 <img width="555" height="871" alt="msc2" src="https://github.com/user-attachments/assets/13c6dc66-5acc-4c8c-bde8-9ef82b9e704f" />
 
