@@ -38,6 +38,7 @@ Integrated Options Menu: Easily toggle the minimap icon and test the reporting s
 
 
 📖 <b>How to Use</b>
+
 Open the List: Click the Minimap icon or type /msc.
 
 Assign a Spec: Locate the player, click Set, and select their new role.
