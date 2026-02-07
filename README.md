@@ -44,7 +44,7 @@ Integrated Options Menu: Easily toggle the minimap icon and test the reporting s
 
 Open the List: Click the Minimap icon or type /msc.
 
-<img width="318" height="343" alt="minimap" src="https://github.com/user-attachments/assets/bb0819dd-3102-4994-a8d8-6dea17e53464" />
+<img width="318" height="343" alt="minimap" src="https://github.com/user-attachments/assets/bb0819dd-3102-4994-a8d8-6dea17e53464" /><br><br>
 
 <img width="540" height="316" alt="options" src="https://github.com/user-attachments/assets/b386cdcb-fbb0-4ff9-8e9d-10081904860a" />
 
