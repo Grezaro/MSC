@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: MSC - Main Spec Changes
+## Notes: Tracks Main spec changes for raids. Add-on developed for Warmane, Lordaeron, Wrath of the Lich King (3.3.5)
+## Author: Grezaro
+## Version: 0.1.3
+## SavedVariables: MSCDB, MSCOptions
+
+MSC.lua
