@@ -1,5 +1,4 @@
 
-![MSC](https://github.com/user-attachments/assets/dbafb6ad-049b-4a12-b171-2c21ea39892f)
 
 <b>MSC - Main Spec Changes (v0.1.2)</b>
 Compatible with World of Warcraft: Wrath of the Lich King (3.3.5a)
